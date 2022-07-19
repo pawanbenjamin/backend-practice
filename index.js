@@ -2,7 +2,7 @@ const express = require("express");
 const PORT = 4000;
 const server = express();
 
-// Import and connect to the client
+// require and connect to the client
 
 // Add any middleware you made need
 
