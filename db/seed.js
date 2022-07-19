@@ -15,6 +15,8 @@ const rebuildDb = async () => {
     // call your functions in the correct order!
   } catch (error) {
     console.error(error);
+  } finally {
+    client.end()
   }
 };
 
