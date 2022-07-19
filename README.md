@@ -4,6 +4,11 @@ Use this starter code, and get practice with the process of writing a backend wi
 
 ## Suggested Development Path
 
+### Have a look around!
+
+- Checkout the file structure
+- make sure you understand what scripts your have in your `package.json`
+
 ### Plan out what your Database will look like!
 
 - Create at least two different tables
