@@ -21,7 +21,11 @@ Use this starter code, and get practice with the process of writing a backend wi
 
 ## **Database:**
 
-Start with the `seed.js` file.
+Start with the `client.js` file.
+- Make sure to add your own `dbName`
+- Make sure to also run `createdb <your-db-name>` in your terminal to create the DB locally
+
+Move to the `seed.js` file.
 
 - define some tables
 - make sure you create and drop in the right order
